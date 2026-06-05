@@ -1,0 +1,40 @@
+.logo{
+    font-family: abril fatface;
+    font-size: 30pxpx;
+    font-size: 50px;
+text-align: center;
+margin: 0;
+}
+.top{
+    display: block;
+}
+.bottom{
+    display: block;
+    padding-left: 175px;
+}
+.ph img{
+     width: 100px;
+}
+.hu{
+    height: 30px;
+    background-color: black;
+}
+.button a{
+    
+    text-decoration: none;
+    color: white;
+    margin-left: 80px;
+    font-size: 20px;
+}
+.btn{
+    
+    margin-left: auto;
+    align-items: center;
+}
+
+.button a:hover{
+    color: red;
+}
+.tt{
+    cursor: crosshair;
+}
